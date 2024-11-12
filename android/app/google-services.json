@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494991867882",
+    "project_id": "covidtracker-5bdfe",
+    "storage_bucket": "covidtracker-5bdfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494991867882:android:60be3cf568c129c4aa7c93",
+        "android_client_info": {
+          "package_name": "com.example.lab12_covid_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeacM7Pns7dP5iIMhUFMaH7-E1mHiG2ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
